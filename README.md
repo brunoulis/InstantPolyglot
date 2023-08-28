@@ -27,6 +27,7 @@ InstantPolyglot es una plataforma de traducción en tiempo real que permite a lo
 - **HTML / CSS / JavaScript**: Lenguajes esenciales para desarrollar la interfaz de usuario y la lógica del cliente.
 - **Google Cloud Translate / Microsoft Translator**: Bibliotecas utilizadas para la traducción automática de mensajes.
 - **Heroku / AWS / DigitalOcean**: Opciones para desplegar la plataforma en un entorno en la nube.
+- **Docker**: Para la creación de contenedores. En este caso para MongoDB.
 
 ## Instalación y Uso
 
