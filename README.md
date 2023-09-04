@@ -1,4 +1,4 @@
-# InstantPolyglot
+# InstantPolyglot (Work In Progress)
 
 InstantPolyglot es una plataforma de traducción en tiempo real que permite a los usuarios comunicarse en diferentes idiomas de manera instantánea. La plataforma combina la potencia de Node.js y Java para ofrecer una experiencia de chat en tiempo real con traducción automática.
 
